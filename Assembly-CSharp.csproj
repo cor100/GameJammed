@@ -64,9 +64,11 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Character2.cs" />
     <Compile Include="Assets/Scripts/HPBar.cs" />
     <Compile Include="Assets/Scripts/Character1.cs" />
     <Compile Include="Assets/Prefabs/Nice.cs" />
+    <Compile Include="Assets/Character2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Sprites/Martial Hero/License.txt" />
