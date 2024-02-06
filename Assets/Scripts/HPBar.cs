@@ -21,7 +21,7 @@ public class HPBar : MonoBehaviour
 
     }
     // called from Player [method name] everytime player takes damage
-    private void TakeDamage(int health){
+    public void TakeDamage(int health){
         _slider.value -= health;
         HealthFill.color = gradient.Evaluate(_slider.normalizedValue);
     }
