@@ -100,6 +100,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerSpeed: 10
+  jumpSpeed: 1
+  spritesAttack:
+  - {fileID: -1438621162, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  - {fileID: -2048705804, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  - {fileID: 1308254812, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  - {fileID: -1790381874, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  - {fileID: -1363408375, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  - {fileID: 1081378791, guid: 5c7396bbd4cd0489abc9f883100d137e, type: 3}
+  spritesFall:
+  - {fileID: 2011793769, guid: ba9dc781ca38e411d8e69ee5f4c2c723, type: 3}
+  - {fileID: 2025818345, guid: ba9dc781ca38e411d8e69ee5f4c2c723, type: 3}
+  spritesDeath:
+  - {fileID: -1703304407, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  - {fileID: 171200423, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  - {fileID: 1701725285, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  - {fileID: -626098076, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  - {fileID: 1942938143, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  - {fileID: -841732253, guid: caa43494c1dba4d5aa8dd1382a451bd9, type: 3}
+  spritesIdle:
+  - {fileID: 1166805004, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: -391114257, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: 1565665961, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: -1773746800, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: -1447597238, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: -881427772, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: 2052531476, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  - {fileID: -708693810, guid: c58cb545bdb5f45bbae6418173a0025d, type: 3}
+  spritesJump:
+  - {fileID: 660570101, guid: 7f80597aa3f7944fcb7dbcf2adee6847, type: 3}
+  - {fileID: 415947060, guid: 7f80597aa3f7944fcb7dbcf2adee6847, type: 3}
+  spritesRun:
+  - {fileID: -67152540, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: -1274367894, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: 545671845, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: 1273608494, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: 1338258544, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: 1085273321, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: 572945165, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  - {fileID: -1096236668, guid: 62b57d5a3b5624e97825c6de79f545e6, type: 3}
+  spritesTakeHit:
+  - {fileID: -830104591, guid: 26b2eb76b7fdf4c0c98f0b80d4f82980, type: 3}
+  - {fileID: 630624991, guid: 26b2eb76b7fdf4c0c98f0b80d4f82980, type: 3}
+  - {fileID: -1317309690, guid: 26b2eb76b7fdf4c0c98f0b80d4f82980, type: 3}
+  - {fileID: -1180608913, guid: 26b2eb76b7fdf4c0c98f0b80d4f82980, type: 3}
+  animationFPS: 0.1
 --- !u!60 &2392980871345576793
 PolygonCollider2D:
   m_ObjectHideFlags: 0
