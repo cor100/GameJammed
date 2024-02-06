@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/AldoScene.unity
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
   isLoaded: 1
   isActive: 1
   isSubScene: 0

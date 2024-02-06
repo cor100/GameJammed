@@ -370,8 +370,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 106,
-      "PayloadLength": 52,
-      "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -382,7 +382,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250,
+      "PayloadOffset": 223,
       "PayloadLength": 45235,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -395,9 +395,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45578,
-      "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+      "PayloadOffset": 45551,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2245,7 +2245,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45745,
+      "PayloadOffset": 45691,
       "PayloadLength": 7352,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2448,9 +2448,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 53201,
-      "PayloadLength": 52,
-      "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+      "PayloadOffset": 53147,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2461,7 +2461,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 53337,
+      "PayloadOffset": 53256,
       "PayloadLength": 39763,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2474,9 +2474,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 93185,
-      "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+      "PayloadOffset": 93104,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp2"
@@ -2916,7 +2916,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 93344,
+      "PayloadOffset": 93236,
       "PayloadLength": 7884,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3131,9 +3131,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 101340,
-      "PayloadLength": 52,
-      "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+      "PayloadOffset": 101232,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3144,7 +3144,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 101484,
+      "PayloadOffset": 101349,
       "PayloadLength": 51310,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3157,9 +3157,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 152887,
-      "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+      "PayloadOffset": 152752,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3618,7 +3618,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 153054,
+      "PayloadOffset": 152892,
       "PayloadLength": 7516,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3825,9 +3825,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160674,
-      "PayloadLength": 52,
-      "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+      "PayloadOffset": 160512,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3838,7 +3838,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 160810,
+      "PayloadOffset": 160621,
       "PayloadLength": 36918,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3851,9 +3851,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 197813,
-      "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+      "PayloadOffset": 197624,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp2"
@@ -4202,7 +4202,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 197972,
+      "PayloadOffset": 197756,
       "PayloadLength": 8206,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4425,9 +4425,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 206290,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 206074,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.UnityAdditionalFile.txt"
@@ -4438,7 +4444,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 206434,
+=======
+      "PayloadOffset": 206191,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 37393,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4451,9 +4461,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.rsp2",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 243920,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 243677,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.rsp2"
@@ -4784,7 +4800,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.2D.Sprite.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 244087,
+=======
+      "PayloadOffset": 243817,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5009,9 +5029,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 252487,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 252217,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -5022,7 +5048,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 252638,
+=======
+      "PayloadOffset": 252341,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 34371,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5035,9 +5065,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 287109,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 286812,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -5319,7 +5355,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 287283,
+=======
+      "PayloadOffset": 286959,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5544,9 +5584,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 295695,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 295371,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5557,7 +5603,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 295858,
+=======
+      "PayloadOffset": 295507,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 37115,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5570,9 +5620,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 333085,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 332734,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5883,7 +5939,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 333271,
+=======
+      "PayloadOffset": 332893,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -6108,9 +6168,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 341665,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 341287,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -6121,7 +6187,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 341810,
+=======
+      "PayloadOffset": 341405,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 64603,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -6134,9 +6204,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 406507,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 406102,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6704,7 +6780,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 406675,
+=======
+      "PayloadOffset": 406243,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 7835,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -6919,9 +6999,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 414618,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 414186,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6932,7 +7018,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 414758,
+=======
+      "PayloadOffset": 414299,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 36733,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -6945,9 +7035,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 451580,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 451121,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -7257,7 +7353,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 451743,
+=======
+      "PayloadOffset": 451257,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 7749,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -7470,9 +7570,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 459603,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 459117,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7483,7 +7589,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 459746,
+=======
+      "PayloadOffset": 459233,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 35078,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -7496,9 +7606,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 494916,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 494403,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7789,7 +7905,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 495082,
+=======
+      "PayloadOffset": 494542,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -8014,9 +8134,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 503504,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 502964,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -8027,7 +8153,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 503677,
+=======
+      "PayloadOffset": 503110,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 35837,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -8040,9 +8170,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 539636,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 539069,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -8335,7 +8471,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 539832,
+=======
+      "PayloadOffset": 539238,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -8560,9 +8700,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 548264,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 547670,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8573,7 +8719,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 548447,
+=======
+      "PayloadOffset": 547826,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 34621,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -8586,9 +8736,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 583200,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 582579,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8870,7 +9026,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 583406,
+=======
+      "PayloadOffset": 582758,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -9095,9 +9255,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 591794,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 591146,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -9108,7 +9274,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 591933,
+=======
+      "PayloadOffset": 591258,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 37878,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -9121,9 +9291,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 629899,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 629224,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9451,7 +9627,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 630061,
+=======
+      "PayloadOffset": 629359,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8034,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -9670,9 +9850,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 638199,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 637497,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9683,7 +9869,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 638335,
+=======
+      "PayloadOffset": 637606,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 38947,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -9696,9 +9886,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 677367,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 676638,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.rsp2"
@@ -10040,7 +10236,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 677526,
+=======
+      "PayloadOffset": 676770,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8034,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -10259,9 +10459,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 685669,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 684913,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -10272,7 +10478,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 685810,
+=======
+      "PayloadOffset": 685027,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 34731,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -10285,9 +10495,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 720631,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 719848,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10573,7 +10789,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 720795,
+=======
+      "PayloadOffset": 719985,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8281,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -10798,9 +11018,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 729192,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 728382,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10811,7 +11037,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 729340,
+=======
+      "PayloadOffset": 728503,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 86312,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -10824,9 +11054,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 815749,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 814912,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11523,7 +11759,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 815920,
+=======
+      "PayloadOffset": 815056,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8034,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -11742,9 +11982,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 824069,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 823205,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11755,7 +12001,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 824216,
+=======
+      "PayloadOffset": 823325,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 37016,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -11768,9 +12018,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 861328,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 860437,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -12085,7 +12341,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 861498,
+=======
+      "PayloadOffset": 860580,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 7749,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -12298,9 +12558,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 869361,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 868443,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12311,7 +12577,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 869507,
+=======
+      "PayloadOffset": 868562,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 34167,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -12324,9 +12594,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 903769,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 902824,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12625,7 +12901,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 903938,
+=======
+      "PayloadOffset": 902966,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8365,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -12852,9 +13132,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 912428,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 911456,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12865,7 +13151,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 912585,
+=======
+      "PayloadOffset": 911586,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 38368,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -12878,9 +13168,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 951059,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 950060,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13259,7 +13555,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 951239,
+=======
+      "PayloadOffset": 950213,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8065,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -13478,9 +13778,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 959418,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 958392,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13491,7 +13797,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 959564,
+=======
+      "PayloadOffset": 958511,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 38484,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -13504,9 +13814,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 998143,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 997090,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13852,7 +14168,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 998312,
+=======
+      "PayloadOffset": 997232,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8359,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -14079,9 +14399,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1006782,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1005702,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14092,7 +14418,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1006925,
+=======
+      "PayloadOffset": 1005818,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 58099,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -14105,9 +14435,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1065116,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1064009,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14677,7 +15013,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1065282,
+=======
+      "PayloadOffset": 1064148,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8356,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -14904,9 +15244,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1073761,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1072627,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14917,7 +15263,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1073916,
+=======
+      "PayloadOffset": 1072755,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 90567,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -14930,9 +15280,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1164587,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1163426,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15700,7 +16056,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1164765,
+=======
+      "PayloadOffset": 1163577,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8368,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -15927,9 +16287,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1173249,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1172061,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15940,7 +16306,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1173397,
+=======
+      "PayloadOffset": 1172182,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 81744,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -15953,9 +16323,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1255238,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1254023,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16628,7 +17004,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1255409,
+=======
+      "PayloadOffset": 1254167,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8121,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -16849,9 +17229,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1263653,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1262411,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16862,7 +17248,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1263808,
+=======
+      "PayloadOffset": 1262539,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 54423,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -16875,9 +17265,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1318335,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1317066,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17366,7 +17762,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1318513,
+=======
+      "PayloadOffset": 1317217,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8549,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -17597,9 +17997,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1327179,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1325883,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17610,7 +18016,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1327328,
+=======
+      "PayloadOffset": 1326005,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 36122,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -17623,9 +18033,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1363548,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1362225,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17929,7 +18345,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1363720,
+=======
+      "PayloadOffset": 1362370,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8208,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -18152,9 +18572,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1372063,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1370713,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -18165,7 +18591,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1372230,
+=======
+      "PayloadOffset": 1370853,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 35626,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -18178,9 +18608,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1407972,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1406595,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18514,7 +18950,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1408162,
+=======
+      "PayloadOffset": 1406758,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8731,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -18749,9 +19189,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1417017,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1415613,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18762,7 +19208,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1417173,
+=======
+      "PayloadOffset": 1415742,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 42395,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -18775,9 +19225,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1459673,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1458242,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19133,7 +19589,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1459852,
+=======
+      "PayloadOffset": 1458394,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8731,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -19368,9 +19828,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1468708,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1467250,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19381,7 +19847,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1468865,
+=======
+      "PayloadOffset": 1467380,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 34606,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -19394,9 +19864,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1503577,
       "PayloadLength": 65,
       "PayloadDebugContentSnippet": "/pathmap:\"/Users/aldorp/Deskto",
+=======
+      "PayloadOffset": 1502092,
+      "PayloadLength": 38,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/cynthia/GameJ",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19705,7 +20181,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1503757,
+=======
+      "PayloadOffset": 1502245,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 8826,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -19942,9 +20422,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1512688,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/Users/aldorp/Desktop/dis_game",
+=======
+      "PayloadOffset": 1511176,
+      "PayloadLength": 25,
+      "PayloadDebugContentSnippet": "/Users/cynthia/GameJammed",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19955,8 +20441,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1512825,
       "PayloadLength": 33364,
+=======
+      "PayloadOffset": 1511286,
+      "PayloadLength": 33337,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -19968,7 +20459,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1546275,
+=======
+      "PayloadOffset": 1544709,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -20213,11 +20708,18 @@
         "Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll",
+        "Assets/Character2.cs",
         "Assets/Prefabs/Nice.cs",
+<<<<<<< HEAD
         "Assets/Scripts/NewBehaviourScript.cs",
         "Assets/Scripts/PlatformControlle.cs",
         "Assets/Scripts/PlatformSpawner.cs",
         "Assets/Scripts/Temp.cs",
+=======
+        "Assets/Scripts/Character1.cs",
+        "Assets/Scripts/Character2.cs",
+        "Assets/Scripts/HPBar.cs",
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
         "/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp"
@@ -20475,7 +20977,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1546370,
+=======
+      "PayloadOffset": 1544804,
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
       "PayloadLength": 9343,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -21591,7 +22097,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/ScriptAssemblies\" -s=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/cynthia/GameJammed/Library/ScriptAssemblies\" -s=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"/Users/cynthia/GameJammed/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21743,7 +22249,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/getconf"
+      "File": "/Users/cynthia/GameJammed/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -21880,6 +22386,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/200b0aE.dag.json",
-  "PayloadsFile": "/Users/aldorp/Desktop/dis_gamedev/GameYam2024Project/Library/Bee/200b0aE.dag.payloads",
+  "PayloadsFile": "/Users/cynthia/GameJammed/Library/Bee/200b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

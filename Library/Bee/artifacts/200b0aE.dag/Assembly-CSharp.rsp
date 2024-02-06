@@ -351,11 +351,18 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Character2.cs"
 "Assets/Prefabs/Nice.cs"
+<<<<<<< HEAD
 "Assets/Scripts/NewBehaviourScript.cs"
 "Assets/Scripts/PlatformControlle.cs"
 "Assets/Scripts/PlatformSpawner.cs"
 "Assets/Scripts/Temp.cs"
+=======
+"Assets/Scripts/Character1.cs"
+"Assets/Scripts/Character2.cs"
+"Assets/Scripts/HPBar.cs"
+>>>>>>> 9adcc65bb48da3d71cfbdac4cfda16b627af68ad
 -langversion:9.0
 
 /deterministic
