@@ -2,8 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character2 : MonoBehaviour
+public class Hitbox1 : MonoBehaviour
 {
+
+    public Character1 character1;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +16,10 @@ public class Character2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
+    }
+    public virtual void hit(){
+        character1.getHit();
+        // gameObject.GetComponentInParent<Character1>().getHit();
     }
 }

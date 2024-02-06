@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -16,11 +17,25 @@ public class Character1 : MonoBehaviour
     public Sprite[] spritesTakeHit;
     public float animationFPS;
     public HPBar healthbar;
-    private Rigidbody2D _myRb2D;
-    private int _currentFrameIndex = 0;
-    private float _animationTimer;
-    private SpriteRenderer _playerSpriteRenderer;
+    public LayerMask hitboxLayer;
+
+    protected Rigidbody2D _myRb2D;
+    protected int _currentFrameIndex = 0;
+    protected float _animationTimer;
+    protected SpriteRenderer _playerSpriteRenderer;
     protected Vector2 velChange = Vector2.zero;
+    protected Vector2 centreLeft;
+    protected Vector2 centreRight;
+
+
+    void OnDrawGizmosSelected(){
+        centreLeft = transform.position;
+        centreLeft.x += 3;
+        centreRight = transform.position;
+        centreRight.x -= 3;
+        Gizmos.DrawWireCube(centreLeft, new Vector2(1.5f, 2f));
+        Gizmos.DrawWireCube(centreRight,new Vector2(1.5f, 2f));
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -38,6 +53,7 @@ public class Character1 : MonoBehaviour
         ResetVelChange();
 
         Attack();
+        
     }
 
     // update velocity and also animate sprite
@@ -60,6 +76,7 @@ public class Character1 : MonoBehaviour
             _playerSpriteRenderer.flipX = false;
             Animate("run");
         }
+
     }
 
     protected void ResetVelChange()
@@ -67,15 +84,30 @@ public class Character1 : MonoBehaviour
         velChange = Vector2.zero;
     }
 
-    private void Attack()
+    protected virtual void Attack()
     {
         if(Input.GetKeyDown(KeyCode.RightShift))
         {
             StartCoroutine(AnimateAttack());
-            float distance = 66;
-            RaycastHit2D attackEnemy = Physics2D.Raycast(transform.position, Vector2.right, distance);
-            if(attackEnemy.collider.GetComponent<Character1>() != null){
-                attackEnemy.collider.GetComponent<Character1>().getHit();
+            // float distance = 66;
+            // RaycastHit2D attackEnemyRight = Physics2D.Raycast(transform.position, Vector2.right, distance);
+            // RaycastHit2D attackEnemyLeft = Physics2D.Raycast(transform.position, Vector2.left, distance);
+            // if(attackEnemyRight.collider.GetComponent<Character2>() != null){
+            //     attackEnemyRight.collider.GetComponent<Character2>().getHit();
+            // }
+            // if(attackEnemyLeft.collider.GetComponent<Character2>() != null){
+            //     attackEnemyLeft.collider.GetComponent<Character2>().getHit();
+            // }
+            Collider2D attackedLeft = Physics2D.OverlapBox(centreLeft, new Vector2(1.5f, 2), 0, hitboxLayer);  
+            Collider2D attackedRight = Physics2D.OverlapBox(centreRight, new Vector2(1.5f, 2), 0, hitboxLayer);
+
+            if (attackedLeft != null && attackedLeft.gameObject.GetComponent<Hitbox2>() != null){
+                Debug.Log("2left");
+                attackedLeft.gameObject.GetComponent<Hitbox2>().hit();
+            }
+            if (attackedRight != null && attackedRight.gameObject.GetComponent<Hitbox2>() != null){
+                Debug.Log("2right");
+                attackedRight.gameObject.GetComponent<Hitbox2>().hit();
             }
         }
     }
@@ -120,9 +152,9 @@ public class Character1 : MonoBehaviour
         }
     }
 
-    IEnumerator AnimateAttack(){
+    protected IEnumerator AnimateAttack(){
         
-        for(int i = 0; i < 6; i ++){
+        for(int i = 0; i < spritesAttack.Length; i ++){
             _playerSpriteRenderer.sprite = spritesAttack[i];
             yield return new WaitForSeconds(_animationTimer * 1.8f);
         }
